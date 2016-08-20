@@ -1,7 +1,10 @@
-### Git Testing
-# GitTesting
-This is my testing of Git
 
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+Emphasis, aka italics with *astrisks* or __underscores_
 
