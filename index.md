@@ -24,6 +24,10 @@
 
 * [Basic Git] (git_faq.md)
 
+## Python package
+
+* [Python package] (install.additional.package.md)
+
 
 ## Others 
 
