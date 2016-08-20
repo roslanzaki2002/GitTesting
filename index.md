@@ -20,6 +20,10 @@
 
 * [Tips/Trick/Troubleshooting] (openstack.tips.md)
 
+## Git
+
+* [Basic Git] (git_faq.md)
+
 
 ## Others 
 
