@@ -11,6 +11,13 @@
 
   ```
 
+## Logging
+
+  ```
+  * git log pretty=oneline
+
+  ```
+
 
 ## Branching 
 
