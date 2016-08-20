@@ -1,19 +1,26 @@
+# SCRIPTs collection to run VMX, Northstar and IPMPLSView on Openstack + Contrail
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+This repository contains the colleciton of scripts to automate the setup and testing  of Northstar on Openstack
 
-Emphasis, aka italics with *astrisks* or _underscores_
-Strong_emphasis **astrisk** or __underscore___
+## Generic Requirements
 
-1. First ordered list item
-2. Another item
-..* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-..*1. Ordered sub-list
-4. And another item.
+* Working system of Openstack or Openstack + Contrail
 
-...You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+* All scripts in this repo can be installed in Openstack server itself or on any linux machines outside Openstack system
+
+* If the scripts on this repo are going to be run from separate machine (for further reference, let us call it "client machine"):
+
+   * the script is tested on Linux and OSX
+
+   * Install the following package on the client machine:
+      * Python 2.7
+
+   * Install the following python modules:
+      * python-novaclient
+      * python-neutronclient
+      * python-heatclient
+      * python-glanceclient
+      * python-keystoneclient
+      * vncdotool
+      * requests
+ 
