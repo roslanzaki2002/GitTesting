@@ -6,5 +6,5 @@
 ##### H5
 ###### H6
 
-Emphasis, aka italics with *astrisks* or __underscores_
+Emphasis, aka italics with *astrisks* or __underscores__
 
