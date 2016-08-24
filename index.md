@@ -20,6 +20,11 @@
 
 * [Tips/Trick/Troubleshooting] (openstack.tips.md)
 
+## How to use openstack robot automation
+
+# [FAQ] (document/robot_automation.md)
+
+
 ## Git
 
 * [Basic Git] (git_faq.md)
