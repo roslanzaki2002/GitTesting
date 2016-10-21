@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Author : Roslan Zaki
+
+
 # find the full program path
 if (echo $0 | grep -q -e '^/') ;then
  full_prog=$0;
